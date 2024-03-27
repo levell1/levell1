@@ -16,7 +16,7 @@
 
 [**블로그**](https://levell1.github.io/)  
 **FindAieht 프로젝트**  
-[**브로셔**] (https://teamsparta.notion.site/Find-Aieht-21da25a1bba54bb695202615261aac52)  
-[**시연영상**] (https://www.youtube.com/watch?v=OdmmBRaD1U4)
+[**브로셔**](https://teamsparta.notion.site/Find-Aieht-21da25a1bba54bb695202615261aac52)  
+[**시연영상**](https://www.youtube.com/watch?v=OdmmBRaD1U4)
 
 <!--![image](https://media.giphy.com/media/fb4haewhv8ttpwpfMw/giphy.gif)-->
