@@ -9,13 +9,12 @@
 ## 📋 GitHub stats 📋
 ![levell1's GitHub stats](https://github-readme-stats.vercel.app/api?username=levell1&show_icons=true&theme=vue)
 
+<br><br>
+
 ## 📘 TMI 📘
 
 **FindAieht 프로젝트 브로셔** : <https://teamsparta.notion.site/Find-Aieht-21da25a1bba54bb695202615261aac52>  
 **블로그** : <https://levell1.github.io/>
-
-
-<br><br>
 
 
 <!--![image](https://media.giphy.com/media/fb4haewhv8ttpwpfMw/giphy.gif)-->
