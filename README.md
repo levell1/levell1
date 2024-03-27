@@ -1,7 +1,7 @@
 
 ## 📘 TMI 📘
 
-**FindAieht 프로젝트 브로셔** : <https://teamsparta.notion.site/Find-Aieht-21da25a1bba54bb695202615261aac52>
+**FindAieht 프로젝트 브로셔** : <https://teamsparta.notion.site/Find-Aieht-21da25a1bba54bb695202615261aac52>  
 **블로그** : <https://levell1.github.io/>
 
 ## 기술 
