@@ -5,11 +5,10 @@
 
 ![levell1's GitHub stats](https://github-readme-stats.vercel.app/api?username=levell1&show_icons=true&theme=vue)
 
-<br><br>
 
 ## 📘 TMI 📘
-[**블로그**](https://levell1.github.io/)  
+**블로그** : https://levell1.github.io/  
+**이메일** : whddnr0317@naver.com  
 <br>
-
 
 <!--![image](https://media.giphy.com/media/fb4haewhv8ttpwpfMw/giphy.gif)-->
