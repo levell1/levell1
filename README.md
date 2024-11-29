@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnr0317)](https://solved.ac/whddnr0317/)
 
 
-## 📘 TMI 📘
+## 📘 블로그, 이메일 📘
 **블로그** : https://levell1.github.io/  
 **이메일** : whddnr0317@naver.com  
 <br>
